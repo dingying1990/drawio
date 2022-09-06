@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T09:13:24.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="W5b8GbPseb1s_7xhtFNq" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T10:23:44.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="D2x2n867wkhcMWU9x5fz" version="20.2.8" type="github">
   <diagram id="tJJe3vjBWqaylFjp1plh" name="第 1 页">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,10 +148,10 @@
             <mxPoint x="227" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P5LB23rNgFBodAI33avo-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="P5LB23rNgFBodAI33avo-66" edge="1">
+        <mxCell id="P5LB23rNgFBodAI33avo-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="357" y="1260" as="sourcePoint" />
-            <mxPoint x="257" y="1290" as="targetPoint" />
+            <mxPoint x="258" y="1360" as="sourcePoint" />
+            <mxPoint x="258" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P5LB23rNgFBodAI33avo-73" value="DNN" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" parent="1" vertex="1">
@@ -185,20 +185,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mfCofOUl3hECyFMcD40I-11" value="气象预测多参量（t-&lt;font color=&quot;#ff8000&quot;&gt;n&lt;/font&gt;*h,t)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1470" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mfCofOUl3hECyFMcD40I-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;" parent="1" edge="1">
+        <mxCell id="mfCofOUl3hECyFMcD40I-13" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="mfCofOUl3hECyFMcD40I-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="659" y="1472.14" as="sourcePoint" />
-            <mxPoint x="659" y="1422.14" as="targetPoint" />
+            <mxPoint x="589.5" y="1470" as="sourcePoint" />
+            <mxPoint x="589.5" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mfCofOUl3hECyFMcD40I-14" value="各小时多参量数据横向拼接" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1362.14" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfCofOUl3hECyFMcD40I-16" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="1360" as="sourcePoint" />
+            <mxPoint x="590" y="1360" as="sourcePoint" />
             <mxPoint x="660" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -207,6 +207,39 @@
         </mxCell>
         <mxCell id="g0nCBLFDz29OsJrlKqrv-1" value="XGBOOST" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="610" y="1270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-4" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontColor=#FF0000;" edge="1" parent="1" source="g0nCBLFDz29OsJrlKqrv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1400" as="sourcePoint" />
+            <mxPoint x="660" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-5" value="风速预测值（t)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-6" value="各小时多参量数据横向拼接" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1362.14" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="g0nCBLFDz29OsJrlKqrv-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="1360" as="sourcePoint" />
+            <mxPoint x="670" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-8" value="临近scada风速（t-&lt;font color=&quot;#ff0000&quot;&gt;m&lt;/font&gt;*h,t)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=17;fillColor=#cce5ff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="g0nCBLFDz29OsJrlKqrv-8" target="g0nCBLFDz29OsJrlKqrv-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="1460" as="sourcePoint" />
+            <mxPoint x="599.5" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-11" value="GRU" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;strokeColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1050" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g0nCBLFDz29OsJrlKqrv-12" value="XGboost" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;strokeColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="625" y="1070" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
