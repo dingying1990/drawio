@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T07:16:51.223Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DSOZGnhLkVIuakBvb7dq" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T08:16:41.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ijl8uJq_d2L3AR53Y5Bq" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1418" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -84,133 +84,198 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-134" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="184" y="948" width="100" height="40" as="geometry" />
+          <mxGeometry x="192" y="797" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-135" target="5YajI4EcnErkIa19EKSG-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-135" value="气象判据" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="938" width="120" height="60" as="geometry" />
+          <mxGeometry x="328" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-136" target="5YajI4EcnErkIa19EKSG-139" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-136" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="472" y="938" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="787" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-137" target="5YajI4EcnErkIa19EKSG-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-137" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="472" y="1029" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="878" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-138" target="5YajI4EcnErkIa19EKSG-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-138" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="532" y="1246" as="targetPoint" />
+            <mxPoint x="540" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-138" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="472" y="1130" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="979" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-139" target="5YajI4EcnErkIa19EKSG-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-139" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759" y="1057" as="targetPoint" />
+            <mxPoint x="767" y="906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-139" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="636" y="948" width="100" height="40" as="geometry" />
+          <mxGeometry x="644" y="797" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-140" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="686" y="1138" as="targetPoint" />
+            <mxPoint x="694" y="987" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-140" target="5YajI4EcnErkIa19EKSG-155" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-140" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="636" y="1039" width="100" height="40" as="geometry" />
+          <mxGeometry x="644" y="888" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-141" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759" y="1059" as="targetPoint" />
+            <mxPoint x="767" y="908" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-141" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="636" y="1140" width="100" height="40" as="geometry" />
+          <mxGeometry x="644" y="989" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-155" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="784" y="1039" width="100" height="40" as="geometry" />
+          <mxGeometry x="792" y="888" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-182" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-165" target="5YajI4EcnErkIa19EKSG-135" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="506" y="1246" as="targetPoint" />
+            <mxPoint x="514" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-165" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="546" y="1246" as="targetPoint" />
+            <mxPoint x="554" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-201" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5YajI4EcnErkIa19EKSG-165" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759" y="1055" as="targetPoint" />
+            <mxPoint x="767" y="904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-165" value="Entity" style="whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="636" y="1226" width="100" height="40" as="geometry" />
+          <mxGeometry x="644" y="1075" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5YajI4EcnErkIa19EKSG-203" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="277" y="938" width="60" height="28" as="geometry" />
+          <mxGeometry x="285" y="787" width="60" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="nexIN02jQKYJgGtjRmDR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-0" target="nexIN02jQKYJgGtjRmDR-17">
+        <mxCell id="nexIN02jQKYJgGtjRmDR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-0" target="nexIN02jQKYJgGtjRmDR-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="1498" />
-              <mxPoint x="-72" y="1498" />
+              <mxPoint x="561" y="1761" />
+              <mxPoint x="379" y="1761" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nexIN02jQKYJgGtjRmDR-0" value="&lt;br&gt;分析机组实测阵风因子的空间分布规律：&lt;br&gt;&lt;br&gt;1、计算清单中scada阵风因子并绘制分布图&lt;br&gt;(要求a、选取代表机位点；b、小时平均风速超过10m/s后分风速统计;c、按季节分别统计）&lt;br&gt;2、计算小时平均风速10m/s以上的阵风值、历史出现的最大阵风值、出现时间" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20.5" y="1306" width="261" height="129" as="geometry" />
+        <mxCell id="nexIN02jQKYJgGtjRmDR-0" value="&lt;br&gt;分析机组实测阵风因子的空间分布规律：&lt;br&gt;&lt;br&gt;1、计算清单中各项目scada阵风因子并绘制分布图、同时获取项目机型，并整理得到项目阵风信息表&lt;br&gt;(要求a、选取代表机位点；b、小时平均风速超过10m/s后分风速统计;c、按季节分别统计）&lt;br&gt;2、计算小时平均风速10m/s以上的阵风值、历史出现的最大阵风值、出现时间&lt;br&gt;3、注意机组风速使用应筛选掉停机等无效数据" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="430.5" y="1547" width="261" height="162" as="geometry" />
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-4" target="nexIN02jQKYJgGtjRmDR-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-4" target="nexIN02jQKYJgGtjRmDR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-4" value="梳理已运行预警项目清单（老+旧）、绘制机型和位置分布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="1173" width="120" height="60" as="geometry" />
+          <mxGeometry x="501" y="1436" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-7" target="nexIN02jQKYJgGtjRmDR-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="278" y="1498" />
-              <mxPoint x="110" y="1498" />
+              <mxPoint x="729" y="1761" />
+              <mxPoint x="561" y="1761" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-7" target="nexIN02jQKYJgGtjRmDR-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nexIN02jQKYJgGtjRmDR-7" value="对比已发布预警的项目在预警时段同期scada和cma最大阵风因子、最大阵风值、统计每一次过程情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="1530" width="225" height="60" as="geometry" />
+        <mxCell id="nexIN02jQKYJgGtjRmDR-7" value="&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;评估气象预报阵风准确率：&lt;/span&gt;&lt;/div&gt;&lt;br&gt;对比已发布预警的项目在预警时段同期scada和cma最大阵风因子、最大阵风值、统计每一次过程情况" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="621" y="1793" width="225" height="94" as="geometry" />
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-14" value="（待定）&lt;br&gt;获取EC10m阵风因子数据，并将其作用到100m高度小时平均风速后得到阵风&lt;br&gt;并与实测对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="188.5" y="1644" width="188" height="100" as="geometry" />
+          <mxGeometry x="639.5" y="1921" width="188" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-17" target="nexIN02jQKYJgGtjRmDR-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-17" value="获取或计算（绘制）全国地形复杂度分布图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-132" y="1535" width="120" height="60" as="geometry" />
+          <mxGeometry x="319" y="1798" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nexIN02jQKYJgGtjRmDR-18" value="分析地形复杂度等地形信息与阵风因子的关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-132" y="1655" width="120" height="60" as="geometry" />
+          <mxGeometry x="319" y="1918" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-24" target="nexIN02jQKYJgGtjRmDR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-24" value="&lt;span style=&quot;background-color: initial;&quot;&gt;获取各机型发生扫塔的风况：&lt;/span&gt;&lt;br&gt;&lt;br&gt;获取各机型（v11/v12等）可承受的阵风即发生扫塔的概括性的极端风况描述（某个固定值或某种包含其他风参变化率的风况）" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="2123" width="155" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nexIN02jQKYJgGtjRmDR-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177" y="2200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-26" target="nexIN02jQKYJgGtjRmDR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-26" target="nexIN02jQKYJgGtjRmDR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-26" value="根据scada数据统计每个项目风况S的时长、阵风因子、可承受的极端风况等参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="679" y="2157" width="120" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-27" value="LAC、&amp;nbsp; 陈媛媛（平台技术团队、系防部门等支持）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="266" y="2082" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-28" target="nexIN02jQKYJgGtjRmDR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-28" value="提炼一个简化风况使能包络住扫塔风况S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-31" value="得到逐小时预警的阈值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="892" y="2117" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-33" value="同时评估出寒潮控制模式下可能损失的发电量（可结合发生概率）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="892" y="2236" width="120" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-36" value="结合寒潮控制模式逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="412" y="2161" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-41" value="环境特性评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310.5" y="1436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-51" value="新机型扫塔预警阈值优化技术路线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="1213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-52" value="风机性能评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="57" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-53" value="风机性能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nexIN02jQKYJgGtjRmDR-55" target="nexIN02jQKYJgGtjRmDR-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-55" value="环境特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="464" y="1313" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-56" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="409" y="1329" width="27" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="nexIN02jQKYJgGtjRmDR-57" value="预警阈值优化策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="664" y="1313" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
